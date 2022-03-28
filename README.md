@@ -1,3 +1,2 @@
 # hello-world
-A quick reminder that the world will end in 2053. Or maybe not.
-INITIATING COMMIT CHANGE
+Github page for full-stack projects, ideas, etc..
