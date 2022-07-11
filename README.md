@@ -4,9 +4,9 @@
 
 
 <div>
-  <a href="https://github.com/NewtonMichaeli"><img src="https://img.shields.io/badge/-Github-000000?style=flat-square&labelColor=000000&logo=Github&logoColor=white&link=https://github.com/NewtonMichaeli" alt="GitHub Badge"/></a>
-  <a href=""><img src="https://img.shields.io/badge/-Twitter-000000?style=flat-square&labelColor=000000&logo=twitter&logoColor=white&link=" alt="Twitter Badge"/></a>
-  <a href=""><img src="https://img.shields.io/badge/-Discord-000000?style=flat-square&labelColor=000000&logo=discord&logoColor=white&link=" alt="Discord Badge"/></a>
+  <a href="https://github.com/NewtonMichaeli"><img src="https://img.shields.io/badge/-Github-0a0a0a?style=flat-square&labelColor=0a0a0a&logo=Github&logoColor=white&link=https://github.com/NewtonMichaeli" alt="GitHub Badge"/></a>
+  <a href=""><img src="https://img.shields.io/badge/-Twitter-0a0a0a?style=flat-square&labelColor=0a0a0a&logo=twitter&logoColor=white&link=" alt="Twitter Badge"/></a>
+  <a href=""><img src="https://img.shields.io/badge/-Discord-0a0a0a?style=flat-square&labelColor=0a0a0a&logo=discord&logoColor=white&link=" alt="Discord Badge"/></a>
 </div>
 
 ---
