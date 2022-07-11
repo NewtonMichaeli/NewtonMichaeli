@@ -13,7 +13,7 @@
 
 An Enthusiastic guy who likes to create projects in a variety of fields, including Full-stack, Arduino, Bots, CLIs, etc
 
-
+##
 <div align="auto" style="display: inline-block;">
    <h3 align="auto">Resources</h1>
     <img src="https://skillicons.dev/icons?i=html,css,sass,react,next,vscode,git,docker,js,ts,sqlite,mongodb,python,cpp,cs,nodejs,arduino,webpack,markdown" />
