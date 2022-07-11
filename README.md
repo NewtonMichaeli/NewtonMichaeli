@@ -16,5 +16,5 @@ An Enthusiastic guy who likes to create projects in a variety of fields, includi
 
 <div align="auto" style="display: inline-block;">
    <h3 align="auto">Resources</h1>
-    <img src="https://skillicons.dev/icons?i=html,css,sass,react,next,git,docker,js,ts,mongodb,sqlite,vscode,cpp,cs,python,nodejs,webpack,arduino,markdown" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,react,next,vscode,git,docker,js,ts,sqlite,mongodb,python,cpp,cs,nodejs,arduino,webpack,markdown" />
 </div>
