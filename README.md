@@ -11,7 +11,7 @@
 
 ---
 
-An Enthusiastic guy who likes to create projects in a variety of fields, including Full-stack, Arduino, Bots, CLIs, etc
+An Enthusiastic guy who likes to create projects in a variety of fields, including Full-stack, Arduino, Bots, CLIs, Automation, etc
 
 ##
 <div align="auto" style="display: inline-block;">
