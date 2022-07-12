@@ -5,7 +5,7 @@
 
 <div>
   <a href="https://github.com/NewtonMichaeli"><img src="https://img.shields.io/badge/-Github-0a0a0a?style=flat-square&labelColor=0a0a0a&logo=Github&logoColor=white&link=https://github.com/NewtonMichaeli" alt="GitHub Badge"/></a>
-  <a href=""><img src="https://img.shields.io/badge/-Twitter-0a0a0a?style=flat-square&labelColor=0a0a0a&logo=twitter&logoColor=white&link=" alt="Twitter Badge"/></a>
+  <a href="https://www.linkedin.com/in/netanel-michaeli-047170200/"><img src="https://img.shields.io/badge/-Linkedin-0a0a0a?style=flat-square&labelColor=0a0a0a&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/netanel-michaeli-047170200/" alt="Linkedin Badge"/></a>
   <a href=""><img src="https://img.shields.io/badge/-Discord-0a0a0a?style=flat-square&labelColor=0a0a0a&logo=discord&logoColor=white&link=" alt="Discord Badge"/></a>
 </div>
 
