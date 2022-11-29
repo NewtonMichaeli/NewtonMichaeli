@@ -1,6 +1,6 @@
 <img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Sebazz" src="https://avatars.githubusercontent.com/u/78324089?v=4">
 
-# Hi there, i'm Netanel 🌌
+# Hi there, i'm Nate 🌌
 
 
 <div>
